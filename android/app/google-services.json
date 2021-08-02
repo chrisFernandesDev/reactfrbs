@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506217614903",
+    "project_id": "projetoestudo-7fd4f",
+    "storage_bucket": "projetoestudo-7fd4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506217614903:android:1e8250c3979cea774bf9b2",
+        "android_client_info": {
+          "package_name": "com.reactfrbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506217614903-6jc05lsfs45f4ktfcu9bcjd0bu3t2hqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlBnvcb7NeIsRgWYdjBp0RncqggABGBC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506217614903-6jc05lsfs45f4ktfcu9bcjd0bu3t2hqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
